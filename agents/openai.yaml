@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Wiki"
+  short_description: "维护从架构到业务流程、运行时排障的仓库知识库。"
+  default_prompt: "使用 $maintain-repo-wiki 为当前仓库或多个微服务仓库构建中文优先、可追溯、从整体架构到业务流程细节、字段传播、API/runbook、metrics/logs/alerts 和依赖失败影响都清晰的持久化 Markdown 知识库。"

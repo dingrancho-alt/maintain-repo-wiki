@@ -1,0 +1,9 @@
+# 输入仓库清单。source_type 支持 git 或 local。
+repos:
+  - name: example_service
+    source_type: git
+    url: https://code.example.com/org/example_service
+    branch: master
+    role: 待确认
+    owner: 待确认
+    scan_mode: source_and_wiki
